@@ -1,1 +1,1 @@
-# Project-4
+# BMI Calculator
